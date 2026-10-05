@@ -27,6 +27,8 @@ because something observable went wrong without it.
 SillyTavern · Qdrant · nomic-embed-text (Ollama) · llama.cpp ·
 rootless Podman. Fully local; privacy is the point.
 
+![Architecture](architecture.svg)
+
 ## License
 
 Code repos carry their own licenses (AGPL-3.0). The article is
