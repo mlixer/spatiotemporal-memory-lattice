@@ -18,8 +18,7 @@ because something observable went wrong without it.
 
 | Component | What it does | Status |
 |---|---|---|
-| [Memory Pipeline](https://github.com/mlixer/memory-pipeline) | **Write path.** SillyTavern extension: nightly chunking → summarization → compaction → indexing → consolidation → fact merge | **Published** |
-| Retrieval extension | **Read path.** Per-message recall with temporal neighbor expansion and cluster-summary injection | Coming soon — pending an upstream licensing answer |
+| [Memory Lattice](https://github.com/mlixer/memory-lattice) | **Write path + Read Path** SillyTavern extension: nightly chunking → summarization → compaction → indexing → consolidation → fact merge. Per-message recall with temporal neighbor expansion and cluster-summary injection | **Published** |
 | Quickstart | A drop-in guide for first-time self-hosters | In preparation |
 
 ## Stack
